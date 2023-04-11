@@ -1,4 +1,4 @@
-= Demo Documentation Component B
+= Pilot Docs
 // URLs
 :url-project: https://antora.org
 :url-docs: https://docs.antora.org
